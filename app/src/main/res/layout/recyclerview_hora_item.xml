@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginRight="5dp">
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.15"
+        android:layout_margin="5dp">
+
+        <ImageView
+            android:id="@+id/planetIcon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:background="@drawable/mars"/>
+
+    </FrameLayout>
+
+
+    <TextView
+        android:id="@+id/horaName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:text="Hora"
+        android:textSize="18sp"
+        android:textAlignment="textStart"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="5dp"/>
+
+    <TextView
+        android:id="@+id/horaTimePeriod"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:text="12:00-13:30"
+        android:textSize="18sp"
+        android:textAlignment="textEnd"/>
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.15">
+
+        <ImageView
+            android:id="@+id/horaTimeSpecifier"
+            android:layout_margin="5dp"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:background="@drawable/day"/>
+
+    </FrameLayout>
+
+</LinearLayout>

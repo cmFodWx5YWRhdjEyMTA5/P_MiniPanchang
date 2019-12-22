@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="notification_category"
+        android:title="Notification">
+
+        <SwitchPreference
+            android:key="char"
+            android:title="@string/settings_char_title"
+            android:summary="@string/settings_char_summary"/>
+
+        <SwitchPreference
+            android:key="labh"
+            android:title="@string/settings_labh_title"
+            android:summary="@string/settings_labh_summary"/>
+
+        <SwitchPreference
+            android:key="shubh"
+            android:title="@string/settings_shubh_title"
+            android:summary="@string/settings_subh_summary"/>
+
+        <SwitchPreference
+            android:key="amrit"
+            android:title="@string/settings_amrit_title"
+            android:summary="@string/settings_amrit_summary"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

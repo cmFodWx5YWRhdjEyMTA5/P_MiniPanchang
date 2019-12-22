@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">MiniPanchang</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="msg_token_fmt">Mini Panchang Cloud Messaging</string>
+
+    <string name="simple_channel_name">Mini Panchang Firebase Notification</string>
+    <string name="simple_channel_description">You will recieve notification from firebase</string>
+
+    <string name="choghadiya_channel_name" translatable="false">Mini Panchang Choghadiya Notification</string>
+    <string name="choghadiya_channel_description" translatable="false">You will recieve notification from Mini Panchang about Choghadiya</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="locale">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+
+    <string-array name="locale_alias">
+        <item>En</item>
+        <item>Hi</item>
+    </string-array>
+
+    //Week Day's used in calculation
+    <string-array name="weekdays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+
+    //Choghadiya used in calculation
+    <string-array name="choghadiya_list">
+        <item>Amrit</item>
+        <item>Rog</item>
+        <item>Labh</item>
+        <item>Shubh</item>
+        <item>Char</item>
+        <item>Kaal</item>
+        <item>Udveg</item>
+    </string-array>
+
+    //Hora used in calculation
+    <string-array name="hora_list">
+        <item>Moon</item>
+        <item>Mars</item>
+        <item>Mercury</item>
+        <item>Jupiter</item>
+        <item>Venus</item>
+        <item>Saturn</item>
+        <item>Sun</item>
+    </string-array>
+    <!-- Below this all the will change under language preference change  -->
+
+    <!--Sunrise and Sunset-->
+    <string name="sun_fragment_name">Sunrise and Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="day_length">Day Length</string>
+    <string name="night_length">Night Length</string>
+
+    <!--Choghadiya-->
+    <string-array name="choghadiya_name_list">
+        <item>Amrit</item>
+        <item>Rog</item>
+        <item>Labh</item>
+        <item>Shubh</item>
+        <item>Char</item>
+        <item>Kaal</item>
+        <item>Udveg</item>
+    </string-array>
+
+    <string name="choghadiya_text">** Ghadi (now used for a clock in Hindi) is an ancient measure for calculations of time in India roughly equivalent to 24 minutes. Cho-ghadiya means four ghadi which totals to 96 minutes. Most of choghadiya are of a figure around 96 minutes.</string>
+    <string name="choghadiya_text2">** You can change the date by clicking on Calendar Icon.</string>
+
+    <!--Hora-->
+    <string-array name="hora_name_list">
+        <item>Moon</item>
+        <item>Mars</item>
+        <item>Mercury</item>
+        <item>Jupiter</item>
+        <item>Venus</item>
+        <item>Saturn</item>
+        <item>Sun</item>
+    </string-array>
+    <string name="hora_text">** Hora is from Sanskrit word ahoratra means a hour.Most of hora are of a figure around 60 minutes.</string>
+
+
+    <!--Settings language Preference -->
+    <string name="settings_char_title">Char</string>
+    <string name="settings_labh_title">Labh</string>
+    <string name="settings_shubh_title">Shubh</string>
+    <string name="settings_amrit_title">Amrit</string>
+    <string name="settings_char_summary">Get notified when Char Choghadiya starts.</string>
+    <string name="settings_labh_summary">Get notified when Labh Choghadiya starts.</string>
+    <string name="settings_subh_summary">Get notified when Shubh Choghadiya starts.</string>
+    <string name="settings_amrit_summary">Get notified when Amrit Choghadiya starts.</string>
+    <string name="settings_language_preference_title">Language Preference</string>
+    <string name="settings_language_preference_summary">Select language from List</string>
+
+    <string name="choghadiya_fragment_name">Choghadiya</string>
+    <string name="location_fragment_name">Current Location</string>
+    <string name="language_fragment_name">Language</string>
+    <string name="settings_fragment_name">Settings</string>
+    <string name="share_action_name">Share</string>
+    <string name="about_us__activitty_name">About Us</string>
+    <string name="hora_fragment_name">Hora</string>
+    <string name="nav_des">Your every day care taker.</string>
+    <string name="privacy_and_policy">Privacy and Policy</string>
+
+
+</resources>

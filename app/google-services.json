@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393466433104",
+    "firebase_url": "https://mini-panchang.firebaseio.com",
+    "project_id": "mini-panchang",
+    "storage_bucket": "mini-panchang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393466433104:android:2ec707f43b99b9c2",
+        "android_client_info": {
+          "package_name": "com.applettechnologies.minipanchang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393466433104-go56tbmcs5mqpguf7la47voernvn097l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.applettechnologies.minipanchang",
+            "certificate_hash": "754dab82c0de33b7164ca70a986ec6b254889968"
+          }
+        },
+        {
+          "client_id": "393466433104-em90p2ljlpva6a4f533tu5mf35nd5ipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOt_ij0gVpNKQy05W_LjktfqrauomuQis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393466433104-em90p2ljlpva6a4f533tu5mf35nd5ipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

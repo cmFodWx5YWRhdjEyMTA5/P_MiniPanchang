@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मिनी पंचांग</string>
+
+    <string name="nav_header_desc">नेविगेशन हेडर</string>
+    <string name="action_settings">सेटिंग्स</string>
+
+    <string name="msg_token_fmt">Mini Panchang Cloud Messaging</string>
+    <string name="simple_channel_name">Mini Panchang Firebase Notification</string>
+    <string name="simple_channel_description">आपको फायरबेस से अधिसूचना प्राप्त होगी</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Sunrise and Sunset-->
+    <string name="sun_fragment_name">सूर्योदय और सूर्यास्त</string>
+    <string name="sunrise">सूर्योदय</string>
+    <string name="sunset">सूर्यास्त</string>
+    <string name="day_length">दिन की लंबाई</string>
+    <string name="night_length">रात की लंबाई</string>
+
+    <string name="choghadiya_text">** घड़ी (अब हिंदी में एक घड़ी के लिए उपयोग की जाती है) भारत में समय की गणना के लिए एक प्राचीन उपाय है जो लगभग 24 मिनट के बराबर है। चो-घड़िया का अर्थ चार गड़ी है जो 96 मिनट का योग है। चोघड़िया की अधिकांश संख्या लगभग 96 मिनट की है।</string>
+    <string name="choghadiya_text2">** आप कैलेंडर आइकन पर क्लिक करके तारीख बदल सकते हैं।</string>
+
+    <string name="hora_text">** होरा संस्कृत शब्द अहरोरा से है जिसका अर्थ है एक घंटा। अधिकांश होरा लगभग 60 मिनट का होता है।</string>
+
+    <string-array name="weekdays">
+        <item>सोमवार</item>
+        <item>मंगलवार</item>
+        <item>बुधवार</item>
+        <item>गुरूवार</item>
+        <item>शुक्रवार</item>
+        <item>शनिवार</item>
+        <item>रविवार</item>
+    </string-array>
+
+    <string-array name="hora_list">
+        <item>चंद्रमा</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>बृहस्पति</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+        <item>सूर्य</item>
+    </string-array>
+
+    <string-array name="choghadiya_list">
+        <item>अमृत</item>
+        <item>रोग</item>
+        <item>लाभ</item>
+        <item>शुभ</item>
+        <item>चर</item>
+        <item>काल</item>
+        <item>उद्वेग</item>
+    </string-array>
+
+    <!--Settings language Preference -->
+    <string name="settings_char_title">चर</string>
+    <string name="settings_labh_title">लाभ</string>
+    <string name="settings_shubh_title">शुभ</string>
+    <string name="settings_amrit_title">अमृत</string>
+    <string name="settings_char_summary">चार चोघड़िया शुरू होने पर सूचित करें।</string>
+    <string name="settings_labh_summary">लाभ चोघड़िया शुरू होने पर सूचित करें।</string>
+    <string name="settings_subh_summary">शुभ चौघड़िया शुरू होने पर सूचित करें।</string>
+    <string name="settings_amrit_summary">अमृत चोगड़िया शुरू होने पर सूचित करें।</string>
+    <string name="settings_language_preference_title">भाषा वरीयता</string>
+    <string name="settings_language_preference_summary">सूची से भाषा का चयन करें</string>
+
+    <string name="choghadiya_fragment_name">चोघड़िया</string>
+    <string name="location_fragment_name">वर्तमान स्थान</string>
+    <string name="language_fragment_name">भाषा</string>
+    <string name="settings_fragment_name">सेटिंग्स</string>
+    <string name="share_action_name">शेयर</string>
+    <string name="about_us__activitty_name">हमारे बारे में</string>
+    <string name="hora_fragment_name">होरा</string>
+    <string name="nav_des">आपक हर दिन की देखभाल करने वाला।</string>
+    <string name="privacy_and_policy">गोपनीयता और नीति</string>
+
+</resources>
